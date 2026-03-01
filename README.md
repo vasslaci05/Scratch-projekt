@@ -1,3 +1,5 @@
+Bogár futás
+
 A feladata, hogy a bogarat a piros startmezőről minél keveseb idő alatt eljuttassa a zöld célzónába. Ne feledje, csak akkor érhet célba, ha útközben mind a 7 pöttyöt maradéktalanul begyűjtötte.
 Amire ügyelnie kell:
 -  Fal érintése: Ha nekimegy a falnak, akkor 5 másodperc büntetést kap, és azonnal visszakerül a startra.

@@ -6,4 +6,3 @@ Amire ügyelnie kell:
 -  Időlimit: Az óra ketyeg. Összesen 100 másodperc alatt az összes pöttyel be kell érni a célba.
 -  Irányítás: egyszerűen a nyilakkal.
 -  Célba érés: Ha kevesebb mint 100 másodperc alatt és ha a zsebben van mind a 7 pötty.
-Jó játékot kívánok!
